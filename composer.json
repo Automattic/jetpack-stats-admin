@@ -6,11 +6,11 @@
 	"require": {
 		"automattic/jetpack-constants": "^1.6.20",
 		"automattic/jetpack-options": "^1.16.5",
-		"automattic/jetpack-stats": "^0.4.0"
+		"automattic/jetpack-stats": "^0.4.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.0",
+		"automattic/jetpack-changelogger": "^3.3.1-alpha",
 		"automattic/wordbless": "dev-master"
 	},
 	"autoload": {

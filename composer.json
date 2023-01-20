@@ -6,7 +6,8 @@
 	"require": {
 		"automattic/jetpack-constants": "^1.6.20",
 		"automattic/jetpack-options": "^1.16.5",
-		"automattic/jetpack-stats": "^0.4.1"
+		"automattic/jetpack-stats": "^0.4.1",
+		"automattic/jetpack-status": "^1.16.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
@@ -39,7 +40,7 @@
 		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-stats-admin",
 		"branch-alias": {
-			"dev-trunk": "0.3.x-dev"
+			"dev-trunk": "0.4.x-dev"
 		},
 		"textdomain": "jetpack-stats-admin",
 		"version-constants": {

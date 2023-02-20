@@ -4,15 +4,15 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-constants": "^1.6.20",
+		"automattic/jetpack-constants": "^1.6.21-alpha",
 		"automattic/jetpack-options": "^1.16.5",
-		"automattic/jetpack-stats": "^0.5.0",
-		"automattic/jetpack-status": "^1.16.1",
+		"automattic/jetpack-stats": "^0.5.1-alpha",
+		"automattic/jetpack-status": "^1.16.2-alpha",
 		"automattic/jetpack-jitm": "^2.3.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.1",
+		"automattic/jetpack-changelogger": "^3.3.2-alpha",
 		"automattic/wordbless": "dev-master"
 	},
 	"autoload": {
@@ -23,9 +23,6 @@
 	"scripts": {
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
-		],
-		"test-coverage": [
-			"php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
 		],
 		"test-php": [
 			"@composer phpunit"

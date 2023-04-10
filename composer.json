@@ -4,16 +4,19 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-constants": "^1.6.21",
-		"automattic/jetpack-options": "^1.16.5",
-		"automattic/jetpack-stats": "^0.6.1",
-		"automattic/jetpack-status": "^1.16.3",
-		"automattic/jetpack-jitm": "^2.3.5"
+		"automattic/jetpack-constants": "^1.6.22-alpha",
+		"automattic/jetpack-options": "^1.16.6-alpha",
+		"automattic/jetpack-stats": "^0.6.2-alpha",
+		"automattic/jetpack-status": "^1.16.4-alpha",
+		"automattic/jetpack-jitm": "^2.3.6-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
 		"automattic/jetpack-changelogger": "^3.3.2",
 		"automattic/wordbless": "dev-master"
+	},
+	"suggest": {
+		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
 	},
 	"autoload": {
 		"classmap": [

@@ -7,7 +7,7 @@
 		"automattic/jetpack-constants": "^1.6.22",
 		"automattic/jetpack-options": "^1.16.6",
 		"automattic/jetpack-stats": "^0.6.2",
-		"automattic/jetpack-status": "^1.17.0-alpha",
+		"automattic/jetpack-status": "^1.17.0",
 		"automattic/jetpack-jitm": "^2.3.6"
 	},
 	"require-dev": {

@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-constants": "^1.6.22",
 		"automattic/jetpack-options": "^1.16.6",
-		"automattic/jetpack-stats": "^0.6.3",
+		"automattic/jetpack-stats": "^0.7.0-alpha",
 		"automattic/jetpack-status": "^1.17.1",
 		"automattic/jetpack-jitm": "^2.3.8"
 	},
@@ -41,7 +41,7 @@
 		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-stats-admin",
 		"branch-alias": {
-			"dev-trunk": "0.8.x-dev"
+			"dev-trunk": "0.9.x-dev"
 		},
 		"textdomain": "jetpack-stats-admin",
 		"version-constants": {

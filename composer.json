@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^2.0.0",
 		"automattic/jetpack-constants": "^2.0.0",
 		"automattic/jetpack-plans": "^0.4.0",
-		"automattic/jetpack-stats": "^0.7.0",
+		"automattic/jetpack-stats": "^0.7.1-alpha",
 		"automattic/jetpack-status": "^2.0.0",
 		"automattic/jetpack-jitm": "^3.0.0"
 	},

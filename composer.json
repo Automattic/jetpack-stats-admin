@@ -9,7 +9,7 @@
 		"automattic/jetpack-constants": "^2.0.4",
 		"automattic/jetpack-plans": "^0.4.10",
 		"automattic/jetpack-stats": "^0.13.2",
-		"automattic/jetpack-status": "^4.0.0",
+		"automattic/jetpack-status": "^4.0.1-alpha",
 		"automattic/jetpack-jitm": "^3.1.21"
 	},
 	"require-dev": {

@@ -4,17 +4,17 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.0",
-		"automattic/jetpack-connection": "^5.1.7",
-		"automattic/jetpack-constants": "^2.0.5",
-		"automattic/jetpack-plans": "^0.4.13",
-		"automattic/jetpack-stats": "^0.13.5",
-		"automattic/jetpack-status": "^4.0.3",
-		"automattic/jetpack-jitm": "^3.1.29"
+		"php": ">=7.2",
+		"automattic/jetpack-connection": "^6.0.0-alpha",
+		"automattic/jetpack-constants": "^3.0.0-alpha",
+		"automattic/jetpack-plans": "^0.5.0-alpha",
+		"automattic/jetpack-stats": "^0.14.0-alpha",
+		"automattic/jetpack-status": "^5.0.0-alpha",
+		"automattic/jetpack-jitm": "^4.0.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^4.2.8",
+		"automattic/jetpack-changelogger": "^5.0.0-alpha",
 		"automattic/wordbless": "dev-master"
 	},
 	"suggest": {
@@ -46,7 +46,7 @@
 		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-stats-admin",
 		"branch-alias": {
-			"dev-trunk": "0.22.x-dev"
+			"dev-trunk": "0.23.x-dev"
 		},
 		"textdomain": "jetpack-stats-admin",
 		"version-constants": {

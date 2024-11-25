@@ -5,16 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.23.1-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 0.23.1 - 2024-11-25
 ### Changed
-- Updated dependencies.
+- Updated dependencies. [#40286]
 
 ### Fixed
-- Stast: removed cache for purchases and usage endpoints
-- Walk around an issue where custom code removes `ver` param
+- Stast: removed cache for purchases and usage endpoints [#40266]
+- Walk around an issue where custom code removes `ver` param [#40322]
 
 ## 0.23.0 - 2024-11-18
 ### Removed

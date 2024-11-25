@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Stast: removed cache for purchases and usage endpoints
+- Walk around an issue where custom code removes `ver` param
 
 ## 0.23.0 - 2024-11-18
 ### Removed

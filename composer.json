@@ -7,15 +7,15 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.3.2-alpha",
 		"automattic/jetpack-constants": "^3.0.1",
-		"automattic/jetpack-plans": "^0.5.1",
-		"automattic/jetpack-stats": "^0.15.0",
+		"automattic/jetpack-plans": "^0.5.2-alpha",
+		"automattic/jetpack-stats": "^0.15.1-alpha",
 		"automattic/jetpack-status": "^5.0.2",
 		"automattic/jetpack-jitm": "^4.0.5-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/jetpack-changelogger": "^5.1.0",
-		"automattic/wordbless": "^0.4.2"
+		"automattic/jetpack-test-environment": "@dev"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -36,9 +36,7 @@
 			"@composer phpunit"
 		],
 		"build-production": "echo 'Add your build step to composer.json, please!'",
-		"build-development": "echo 'Add your build step to composer.json, please!'",
-		"post-install-cmd": "WorDBless\\Composer\\InstallDropin::copy",
-		"post-update-cmd": "WorDBless\\Composer\\InstallDropin::copy"
+		"build-development": "echo 'Add your build step to composer.json, please!'"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

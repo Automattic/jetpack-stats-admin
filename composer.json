@@ -5,13 +5,13 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^6.11.6",
+		"automattic/jetpack-connection": "^6.11.7-alpha",
 		"automattic/jetpack-blaze": "^0.25.26-alpha",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-plans": "^0.8.0",
 		"automattic/jetpack-stats": "^0.16.2",
 		"automattic/jetpack-status": "^5.1.4",
-		"automattic/jetpack-jitm": "^4.2.18"
+		"automattic/jetpack-jitm": "^4.2.19-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",

@@ -11,11 +11,11 @@
 		"automattic/jetpack-plans": "^0.11.2",
 		"automattic/jetpack-stats": "^0.17.8",
 		"automattic/jetpack-status": "^6.1.2",
-		"automattic/jetpack-jitm": "^4.3.20"
+		"automattic/jetpack-jitm": "^4.3.21-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "^6.0.14-alpha",
+		"automattic/jetpack-changelogger": "^6.0.14",
 		"automattic/jetpack-test-environment": "@dev",
 		"automattic/phpunit-select-config": "^1.0.3"
 	},

@@ -9,7 +9,7 @@
 		"automattic/jetpack-blaze": "^0.28.2",
 		"automattic/jetpack-constants": "^3.0.12",
 		"automattic/jetpack-plans": "^0.11.9",
-		"automattic/jetpack-stats": "^0.20.0",
+		"automattic/jetpack-stats": "^0.20.1-alpha",
 		"automattic/jetpack-status": "^6.2.1-alpha",
 		"automattic/jetpack-jitm": "^4.3.50"
 	},

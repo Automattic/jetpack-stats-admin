@@ -4,18 +4,18 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"php": ">=7.2",
-		"automattic/jetpack-connection": "^8.12.0",
-		"automattic/jetpack-constants": "^3.0.12",
-		"automattic/jetpack-plans": "^0.12.0",
-		"automattic/jetpack-stats": "^0.20.4",
-		"automattic/jetpack-status": "^6.5.0",
-		"automattic/jetpack-jitm": "^4.3.52"
+		"php": ">=7.4",
+		"automattic/jetpack-connection": "^9.0.0-alpha",
+		"automattic/jetpack-constants": "^4.0.0-alpha",
+		"automattic/jetpack-plans": "^0.13.0-alpha",
+		"automattic/jetpack-stats": "^0.21.0-alpha",
+		"automattic/jetpack-status": "^7.0.0-alpha",
+		"automattic/jetpack-jitm": "^5.0.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-blaze": "^0.28.5",
-		"automattic/phpunit-select-config": "^1.0.9"
+		"automattic/jetpack-blaze": "^0.29.0-alpha",
+		"automattic/phpunit-select-config": "^1.0.10-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -40,7 +40,7 @@
 		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-stats-admin",
 		"branch-alias": {
-			"dev-trunk": "0.34.x-dev"
+			"dev-trunk": "0.35.x-dev"
 		},
 		"textdomain": "jetpack-stats-admin",
 		"version-constants": {

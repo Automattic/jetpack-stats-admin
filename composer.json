@@ -11,7 +11,7 @@
 		"automattic/jetpack-feature-flags": "^0.2.1",
 		"automattic/jetpack-plans": "^0.16.0",
 		"automattic/jetpack-stats": "^0.24.2-alpha",
-		"automattic/jetpack-status": "^7.1.1",
+		"automattic/jetpack-status": "^7.1.2-alpha",
 		"automattic/jetpack-jitm": "^5.1.9"
 	},
 	"require-dev": {

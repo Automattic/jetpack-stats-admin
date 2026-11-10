@@ -16,7 +16,7 @@
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-blaze": "^0.29.15",
+		"automattic/jetpack-blaze": "^0.29.16-alpha",
 		"automattic/phpunit-select-config": "^1.0.12"
 	},
 	"suggest": {
